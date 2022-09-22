@@ -1,0 +1,11 @@
+C:\Users\Abhishek.Pandey1\Documents\PatientDatabaseDemo\obj\Debug\PatientDatabaseDemo.csproj.AssemblyReference.cache
+C:\Users\Abhishek.Pandey1\Documents\PatientDatabaseDemo\obj\Debug\PatientDatabaseDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abhishek.Pandey1\Documents\PatientDatabaseDemo\obj\Debug\PatientDatabaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek.Pandey1\Documents\PatientDatabaseDemo\bin\Debug\PatientDatabaseDemo.exe.config
+C:\Users\Abhishek.Pandey1\Documents\PatientDatabaseDemo\bin\Debug\PatientDatabaseDemo.exe
+C:\Users\Abhishek.Pandey1\Documents\PatientDatabaseDemo\bin\Debug\PatientDatabaseDemo.pdb
+C:\Users\Abhishek.Pandey1\Documents\PatientDatabaseDemo\bin\Debug\PatientDatabaseLibrary.dll
+C:\Users\Abhishek.Pandey1\Documents\PatientDatabaseDemo\bin\Debug\PatientDatabaseLibrary.pdb
+C:\Users\Abhishek.Pandey1\Documents\PatientDatabaseDemo\obj\Debug\PatientDatabaseDemo.csproj.CopyComplete
+C:\Users\Abhishek.Pandey1\Documents\PatientDatabaseDemo\obj\Debug\PatientDatabaseDemo.exe
+C:\Users\Abhishek.Pandey1\Documents\PatientDatabaseDemo\obj\Debug\PatientDatabaseDemo.pdb
